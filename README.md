@@ -1,5 +1,6 @@
-# 💫 About Me:
-🌱 I’m currently learning Electron JS <br> 💬 Ask me about Web Development <br> 📫 How to reach me: devashikhridoy@gmail.com
+### 💫 About Me:
+#MERN Stack Developer
+🌱 I’m currently learning Electron JS <br> 💬 Ask me about Web Development <br> 📫 How to reach me: devashikhridoy@gmail.com <br> 🌐 My portfolio: https://devashik.com
 
 
 ## 🌐 Socials:
