@@ -15,6 +15,10 @@
 
 ![ahammedhridoy's Stats](https://github-readme-stats.vercel.app/api?username=ahammedhridoy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+![ahammedhridoy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahammedhridoy&theme=vue-dark&hide_border=true)
+
+![ahammedhridoy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahammedhridoy&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ahammedhridoy&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
