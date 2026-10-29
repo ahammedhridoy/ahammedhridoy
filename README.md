@@ -1,6 +1,6 @@
 # 👨‍💻 MERN Stack Developer | WordPress Expert
 
-👨‍💻 I’m currently working as a Freelancer<br> 🌱 I’m currently learning Electron JS <br> 💬 Ask me about Software Development <br> 📫 How to reach me: devashikhridoy@gmail.com <br> 🌐 My portfolio: https://ashikhridoy.com
+👨‍💻 I’m currently working as a Freelancer<br> 🌱 I’m currently learning AI Engineering <br> 💬 Ask me about Software Development <br> 📫 How to reach me: devashikhridoy@gmail.com <br> 🌐 My portfolio: https://ashikhridoy.com
 
 
 ## 🌐 Socials:
